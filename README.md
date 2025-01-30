@@ -1,6 +1,6 @@
 # Crypto Trading Data Pipeline and LSTM Prediction
 
-This project implements a data pipeline to fetch cryptocurrency historical data from Yahoo Finance, store it in a MySQL database, and train LSTM models to predict future prices.  It also includes functionality for incremental data updates and future price predictions.
+This project implements a data pipeline to fetch cryptocurrency historical data from Yahoo Finance, store it in a MariaDB database, and train LSTM models to predict future prices.  It also includes functionality for incremental data updates and future price predictions.
 
 ## Features
 
